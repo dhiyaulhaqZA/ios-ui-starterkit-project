@@ -1,0 +1,6 @@
+framework module Pods_StarterTemplate_StarterTemplateUITests {
+  umbrella header "Pods-StarterTemplate-StarterTemplateUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
